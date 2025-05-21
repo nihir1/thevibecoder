@@ -1,12 +1,19 @@
-# [The Vibe Coder](https://nihir1.github.io/thevibecoder/)
+# The Vibe Coder Website
 
-A modern, responsive landing page website for a business offering AI-powered chatbots and social media growth services.
+This repository contains the source code for **The Vibe Coder** website.
 
-## Features
+---
 
-- Sticky navigation header
-- Responsive design
-- WhatsApp and Instagram service highlights
-- Testimonials slider
-- Contact form
-- Modal popup for Privacy Policy and Terms of Service
+## Live Website
+
+The website has moved! Check out the live, updated site here:
+
+[https://the-vibe-coder-69.github.io/www/](https://the-vibe-coder-69.github.io/www/)
+
+---
+
+## Source Code & Documentation
+
+For the latest source code, documentation, and contribution guidelines, visit the main README:
+
+[https://github.com/the-vibe-coder-69/www/blob/main/README.md](https://github.com/the-vibe-coder-69/www/blob/main/README.md)
